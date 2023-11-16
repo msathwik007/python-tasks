@@ -1,0 +1,8 @@
+hobby = input("What is your favourite hobby?:")
+surname = input("Enter your surname:")
+colour = input("What is your favourite colour?:")
+pet = input("What is your favourite pet?:")
+print(hobby)
+print(surname)
+print(colour)
+print(pet)

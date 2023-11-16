@@ -1,0 +1,6 @@
+mealnum = int(input("How many meals do you want to buy"))
+mealcost = float(input("How much does each one cost"))
+drinknum = int(input("How many drinks do you want to buy"))
+drinkcost = float(input("How much does each one cost"))
+total = (mealnum*mealcost) + (drinknum*drinkcost)
+print("The total cost is",total)

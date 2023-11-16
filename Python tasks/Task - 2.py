@@ -1,0 +1,2 @@
+food = "Pizza"
+print(food)

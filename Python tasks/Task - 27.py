@@ -1,0 +1,5 @@
+sample = int(input("Enter sample rate"))
+resolution = int(input("Enter resolution"))
+length= int(input("Enter length in minutes"))
+size = sample*resolution*(length*60)
+print("The file size is: ",size,"bits")
